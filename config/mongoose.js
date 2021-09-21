@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 
+
 mongoose.connect('mongodb://localhost/socio_development');
 const db = mongoose.connection;
 
