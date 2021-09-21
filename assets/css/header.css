@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   padding: 0 10px;
-  background: rgb(106, 23, 161);
+  background: purple;
   color: white;
   box-shadow: 1px 1px 1px 1px lightgrey; }
   #layout-header nav .mini-logo p {
